@@ -87,7 +87,7 @@
 
 }
 
-$scroll_offset : 5em;
+$scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
     display: block; 
@@ -105,5 +105,5 @@ h1:before, .anchor:before {
     margin-left: -.5em;
     color: white;
     background-color: #00369f;
-    font-size: .10em;
+    font-size: .8em;
 }
