@@ -1,6 +1,5 @@
 
 # 📝 Publications 
-## 🎙 Speech Synthesis
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/1.png' alt="sym" width="100%"></div></div>
