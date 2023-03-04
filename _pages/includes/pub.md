@@ -12,7 +12,7 @@ Juncheng Li, **Junlin Xie**, Long Qian, Linchao Zhu, Siliang Tang, Fei Wu, Yi Ya
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2022</div><img src='images/2.png' alt="sym" width="100%"></div></div>
  <div class='paper-box-text' markdown="1">
-[Dilated context integrated network with cross-modal consensus for temporal emotion localization in videos](https://arxiv.org/pdf/2208.01954.pdf) \\
+[Dilated context integrated network with cross-modal consensus for temporal emotion localization in videos](https://arxiv.org/abs/2208.01954) \\
 Juncheng Li^*, **Junlin Xie**^*, Long Qian, Linchao Zhu, Siliang Tang, Fei Wu, Yi Yang, Yueting Zhuang, Xin Eric Wang   (**Equal Contribution**)
 
 </div>
