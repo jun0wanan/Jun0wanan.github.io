@@ -1,5 +1,7 @@
 # 🎖 Honors and Awards
 
+- Outstanding Graduate Student of Zhejiang University(1%) （2023）
+- Outstanding Academic Scholarship of Zhejiang University Ningbo Campus（1%）(2022)
 - President Scholarship **(top 1%)** (2019)
 - Wangtongchuan Scholarship $10,000 (**1**/1000+ high school students) (2020)
 - China University Computer competition —— National Team Bronze Award (2019)
